@@ -1,0 +1,33 @@
+Application name : 
+manage student system 
+it should have registration system 
+for login(username,password)
+when you successfuly login there will be 11 buttons(
+beaurotique,comptabilité pratique,gestion comercial,
+programmation,gestion graphique,informatique,system qualité
+l'agronomie,soutien universitaire,l'anguage de communication,
+science de l'education)
+
+after clicking on every button there shall be 3 bottons appear
+ in these 3 bottons "la durée de formation"
+(3 months,6months,9 months)
+
+for example we click on the botton of 9 month duration : 
+there will be a table,its columns are : 
+prenom,nom,id
+
+Here the CRUD methods should be applied.
+
+if we click on any row for exaple said,sabri,1 there should be
+a table pop-up for payment detials 
+the table has these culomns : 
+prenom,nom,date,validatepayment(true,false)
+there should be as well a button in the right bottom with 
+a title of upload(download) where you can upload all the 
+payment details through out the whole process of the education
+
+
+
+
+
+

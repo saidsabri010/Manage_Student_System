@@ -1,0 +1,18 @@
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.exe
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.deps.json
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.runtimeconfig.json
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.dll
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\bin\Debug\netcoreapp3.1\Manage Student System.pdb
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage_Student_System.Form1.resources
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage_Student_System.Home.resources
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage_Student_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.AssemblyInfo.cs
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.dll
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.pdb
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage Student System.genruntimeconfig.cache
+C:\Users\HP\source\repos\Manage Student System\Manage Student System\obj\Debug\netcoreapp3.1\Manage_Student_System.bureautique.resources
